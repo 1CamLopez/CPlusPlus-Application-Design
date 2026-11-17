@@ -9,6 +9,7 @@ I added input validation to my Turnbased RPG using `getPositiveNumber()` and `ge
 
 Module 9
 For my AI feature, I chose an Assistant that would recommend actions based on the player's health and attack stats. The assistant would use character data to suggest whether the player should heal, fight, or train. As of right now this is just a mock version
+
 Module 12
 
 As far as my game is concerned, I have decided to use Unreal Engine 5 which is a game engine that uses C++ for game development and AI programming. Unreal Engine makes use of behavior trees to help NPCs decide how to act such as whether to chase the player, attack or move about in the environment. C++ is useful since it helps the process work effectively and without taking up too many resources.
